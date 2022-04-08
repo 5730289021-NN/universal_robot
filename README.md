@@ -18,7 +18,7 @@ In all other cases the packages will have to be build from sources in a Catkin w
 cd $HOME/catkin_ws/src
 
 # retrieve the sources (replace '$ROS_DISTRO' with the ROS version you are using)
-git clone -b $ROS_DISTRO-devel https://github.com/ros-industrial/universal_robot.git
+git clone -b $ROS_DISTRO-devel https://github.com/5730289021-NN/universal_robot/.git
 
 cd $HOME/catkin_ws
 
